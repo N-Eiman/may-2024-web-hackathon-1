@@ -35,7 +35,9 @@ Content: Clarity, completeness, and presentation of information.
 Originality: Unique features, innovative approaches, and personal touches.
 Code Quality: Cleanliness, organization, and use of best practices.
 
-Happy hacking and we look forward to seeing your amazing portfolio websites!
+Happy hackin
+g and we look forward to seeing your amazing portfolio websites!
 
+#ERD
 
-
+![1 drawio](https://github.com/lugaye/may-2024-web-hackathon-1/assets/122876128/b23f735e-2178-4c1f-a25f-5663d85d98c5)
